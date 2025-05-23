@@ -73,6 +73,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 For support, questions, or collaboration inquiries, feel free to reach out:
 
-📞 **Support Line:** +255 712 345 678
-📧 **Email:**[](mailto:myambaado@gmail.com)
-
+📱 **WhatsApp**: [Chat on WhatsApp](https://wa.me/+255768828247)
+📧 **Email**: [myambaado@gmail.com](mailto:myambaado@gmail.com)
