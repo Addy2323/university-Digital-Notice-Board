@@ -54,6 +54,7 @@ class Kernel extends HttpKernel
         'role' => \App\Http\Middleware\CheckRole::class,
     ];
 
+    
     /**
      * Register any type of middleware.
      *
